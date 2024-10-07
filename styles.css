@@ -24,7 +24,7 @@ body{
 
 .card{
     border-radius: 25px;
-    max-width: 288px;
+    max-width: 280px;
     overflow: hidden;
     background-color: hsl(0, 0%, 100%);
     display: flex;
